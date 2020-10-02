@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/allegro/bigcache/v2"
+	"gopkg.in/santsai/bigcache.v2"
 )
 
 const (
